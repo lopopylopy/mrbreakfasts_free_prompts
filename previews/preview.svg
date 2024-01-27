@@ -9,8 +9,8 @@
    id="svg1"
    xml:space="preserve"
    inkscape:export-filename="preview.png"
-   inkscape:export-xdpi="192"
-   inkscape:export-ydpi="192"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="preview.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.31101195"
-     inkscape:cx="688.07646"
-     inkscape:cy="430.85161"
+     inkscape:zoom="1.2440478"
+     inkscape:cx="275.71288"
+     inkscape:cy="319.11957"
      inkscape:window-width="1366"
      inkscape:window-height="699"
      inkscape:window-x="0"
@@ -14848,7 +14848,7 @@
                inkscape:transform-center-y="-3.5992104e-06" /></g><g
              id="g32"
              inkscape:label="switch_l_light"
-             transform="matrix(0.99999996,0,0,-0.99999996,-200.61011,387.93068)"
+             transform="matrix(0.99999996,0,0,-0.99999996,-194.58196,387.58508)"
              style="display:inline"><path
                id="path31"
                style="fill:url(#linearGradient102);stroke:#434a5f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
@@ -14871,7 +14871,7 @@
                  y="-1.9325091">L</tspan></text></g><g
              id="g36"
              inkscape:label="switch_zr_light"
-             transform="matrix(0.99999996,0,0,-0.99999996,-186.14623,374.7897)"
+             transform="matrix(0.99999996,0,0,-0.99999996,-180.11808,374.4441)"
              style="display:inline"><path
                id="path36"
                style="fill:url(#linearGradient104);stroke:#434a5f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
@@ -14893,7 +14893,7 @@
                  y="-1.9325091">ZR</tspan></text></g><g
              id="g37"
              inkscape:label="switch_zl_light"
-             transform="matrix(0.99999996,0,0,-0.99999996,-200.61011,374.7897)"
+             transform="matrix(0.99999996,0,0,-0.99999996,-194.58196,374.4441)"
              style="display:inline"><path
                id="path37"
                style="fill:url(#linearGradient105);stroke:#434a5f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
@@ -14915,7 +14915,7 @@
                  y="-1.9325091">ZL</tspan></text></g><g
              id="g43"
              inkscape:label="switch_r_light"
-             transform="matrix(0.99999996,0,0,-0.99999996,-186.14623,387.93068)"
+             transform="matrix(0.99999996,0,0,-0.99999996,-180.11808,387.58508)"
              style="display:inline"><path
                id="path43"
                style="fill:url(#linearGradient106);stroke:#434a5f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
@@ -14938,7 +14938,7 @@
                  y="-1.9325091">R</tspan></text></g><g
              id="g152"
              style="display:inline"
-             transform="matrix(0.99999996,0,0,-0.99999996,-182.61845,387.93069)"
+             transform="matrix(0.99999996,0,0,-0.99999996,-176.5903,387.58509)"
              inkscape:label="switch_r_dark"><path
                id="path88"
                style="fill:url(#linearGradient107);stroke:#434a5f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
@@ -14961,7 +14961,7 @@
                  y="-1.9325211">R</tspan></text></g><g
              id="g59"
              inkscape:label="switch_l_dark"
-             transform="matrix(0.99999996,0,0,-0.99999996,-171.68233,387.93068)"
+             transform="matrix(0.99999996,0,0,-0.99999996,-165.65418,387.58508)"
              style="display:inline"><path
                id="path59"
                style="fill:url(#linearGradient108);stroke:#434a5f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
@@ -14984,7 +14984,7 @@
                  y="-1.9325091">L</tspan></text></g><g
              id="g75"
              inkscape:label="switch_zr_dark"
-             transform="matrix(0.99999996,0,0,-0.99999996,-157.21845,374.7897)"
+             transform="matrix(0.99999996,0,0,-0.99999996,-151.1903,374.4441)"
              style="display:inline"><path
                id="path71"
                style="fill:url(#linearGradient41-4);stroke:#434a5f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
@@ -15006,7 +15006,7 @@
                  y="-1.9325091">ZR</tspan></text></g><g
              id="g88"
              inkscape:label="switch_zl_dark"
-             transform="matrix(0.99999996,0,0,-0.99999996,-171.68233,374.7897)"
+             transform="matrix(0.99999996,0,0,-0.99999996,-165.65418,374.4441)"
              style="display:inline"><path
                id="path77"
                style="fill:url(#linearGradient109);stroke:#434a5f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
@@ -15028,7 +15028,7 @@
                  y="-1.9325091">ZL</tspan></text></g><g
              id="g143"
              inkscape:label="switch_sl_light"
-             transform="matrix(0.99999996,0,0,-0.99999996,-139.24142,372.14387)"
+             transform="matrix(0.99999996,0,0,-0.99999996,-124.88915,370.03439)"
              style="display:inline"><path
                id="path141"
                style="fill:url(#linearGradient110);stroke:#434a5f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
@@ -15051,7 +15051,7 @@
                  y="-2.4550252">SL</tspan></text></g><g
              id="g144"
              inkscape:label="switch_sr_light"
-             transform="matrix(0.99999996,0,0,-0.99999996,-124.77753,372.14387)"
+             transform="matrix(0.99999996,0,0,-0.99999996,-110.42526,370.03439)"
              style="display:inline"><path
                id="path144"
                style="fill:url(#linearGradient111);stroke:#434a5f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
@@ -15074,7 +15074,7 @@
                  y="-2.4550252">SR</tspan></text></g><g
              id="g146"
              inkscape:label="switch_sl_dark"
-             transform="matrix(0.99999996,0,0,-0.99999996,-110.31364,372.14387)"
+             transform="matrix(0.99999996,0,0,-0.99999996,-95.961374,370.03439)"
              style="display:inline"><path
                id="path146"
                style="fill:url(#linearGradient112);stroke:#434a5f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
@@ -15097,7 +15097,7 @@
                  y="-2.4550252">SL</tspan></text></g><g
              id="g147"
              inkscape:label="switch_sr_dark"
-             transform="matrix(0.99999996,0,0,-0.99999996,-95.849761,372.14387)"
+             transform="matrix(0.99999996,0,0,-0.99999996,-81.497495,370.03439)"
              style="display:inline"><path
                id="path147"
                style="fill:url(#linearGradient35-6);stroke:#434a5f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
@@ -15121,7 +15121,7 @@
              id="g852"
              inkscape:label="switch_minus_dark"
              style="display:inline;stroke:#434a5f;stroke-width:0.98445;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-             transform="matrix(1.0750507,0,0,1.0750507,-379.59104,173.62635)"><circle
+             transform="matrix(1.0750507,0,0,1.0750507,-365.23877,171.51687)"><circle
                style="fill:url(#radialGradient852);stroke:#434a5f;stroke-width:0.98445;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
                id="circle851"
                cx="399.12854"
@@ -15133,7 +15133,7 @@
              id="g853"
              inkscape:label="switch_plus_dark"
              style="display:inline;stroke:#434a5f;stroke-width:0.98445;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-             transform="matrix(1.0750507,0,0,1.0750507,-367.55958,173.62635)"><circle
+             transform="matrix(1.0750507,0,0,1.0750507,-353.20731,171.51687)"><circle
                style="fill:url(#radialGradient853);stroke:#434a5f;stroke-width:0.98445;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
                id="circle852"
                cx="399.12854"
@@ -15148,7 +15148,7 @@
              id="g849"
              inkscape:label="switch_home_dark"
              style="display:inline;stroke:#434a5f;stroke-width:0.98445;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-             transform="matrix(1.0750507,0,0,1.0750507,-405.12661,173.62635)"><circle
+             transform="matrix(1.0750507,0,0,1.0750507,-390.77434,171.51687)"><circle
                style="fill:url(#radialGradient849);stroke:#434a5f;stroke-width:0.98445;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
                id="circle849"
                cx="399.12854"
@@ -15171,7 +15171,7 @@
                transform="matrix(0.9301887,0,0,0.9301887,346.65799,-13.837907)" /></g><g
              id="g851"
              inkscape:label="switch_capture_dark"
-             transform="translate(-32.828941,158.74991)"
+             transform="translate(-18.476675,156.64043)"
              style="display:inline"><rect
                style="display:inline;fill:url(#linearGradient113);fill-opacity:1;stroke:#434a5f;stroke-width:0.984451;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
                id="rect849"
@@ -15190,7 +15190,7 @@
              id="g855"
              inkscape:label="switch_minus_light"
              style="display:inline;stroke:#434a5f;stroke-width:0.98445;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-             transform="matrix(1.0750507,0,0,1.0750507,-379.59104,185.65781)"><circle
+             transform="matrix(1.0750507,0,0,1.0750507,-365.23877,183.54833)"><circle
                style="fill:url(#radialGradient858);stroke:#434a5f;stroke-width:0.98445;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
                id="circle854"
                cx="399.12854"
@@ -15202,7 +15202,7 @@
              id="g857"
              inkscape:label="switch_plus_light"
              style="display:inline;stroke:#434a5f;stroke-width:0.98445;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-             transform="matrix(1.0750507,0,0,1.0750507,-367.55958,185.65781)"><circle
+             transform="matrix(1.0750507,0,0,1.0750507,-353.20731,183.54833)"><circle
                style="fill:url(#radialGradient857);stroke:#434a5f;stroke-width:0.98445;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
                id="circle855"
                cx="399.12854"
@@ -15217,7 +15217,7 @@
              id="g15"
              inkscape:label="switch_home_light"
              style="display:inline;stroke:#434a5f;stroke-width:0.98445;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-             transform="matrix(1.0750507,0,0,1.0750507,-405.12661,185.65781)"><circle
+             transform="matrix(1.0750507,0,0,1.0750507,-390.77434,183.54833)"><circle
                style="fill:url(#radialGradient18);stroke:#434a5f;stroke-width:0.98445;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
                id="circle15"
                cx="399.12854"
@@ -15240,7 +15240,7 @@
                transform="matrix(0.9301887,0,0,0.9301887,346.65799,-13.837907)" /></g><g
              id="g18"
              inkscape:label="switch_capture_light"
-             transform="translate(-32.828941,170.78137)"
+             transform="translate(-18.476675,168.67189)"
              style="display:inline"><rect
                style="display:inline;fill:url(#linearGradient850);stroke:#434a5f;stroke-width:0.984451;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
                id="rect16"
