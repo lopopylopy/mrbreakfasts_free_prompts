@@ -45,7 +45,7 @@ Remix the source here, or download and support the pack on Itch.io
 - Generic game pad
 - Keyboard and mouse
 
-### 🪛 How is the Source organized?
+### 🪛 How is the Source made?
 The source was designed in [Inkscape](https://inkscape.org/). The assets are created with fill gradients, strokes, and the Poppins font. The gradients are locked and shared between the assets, allowing for easy edits of the dark and light color schemes.
 
 Here's an example of a generic light button:
