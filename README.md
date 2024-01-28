@@ -60,11 +60,11 @@ Many of the triggers/bumpers were created using Inkscape's Corner live path effe
 
 If you intend to submit a pull request, please organize your work under the correct layers, and make sure your paths are properly grouped and named.
 
-_Naming:_
+_Naming of Groups:_
 > `vender_title_tags`
 > 
 > Example: `xbox_y_color_dark`
 
 ### 🎂 Who uses these?
-Want your project featured? Add a link here in the README
+So far no one! Want your project featured? Add a link here in the README
 
