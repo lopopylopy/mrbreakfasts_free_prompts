@@ -28,7 +28,7 @@ Remix the source here, or download and support the pack on Itch.io
 
 <iframe frameborder="0" src="https://itch.io/embed/2480900?bg_color=edd3da&amp;fg_color=dd2424&amp;link_color=f76600&amp;border_color=c1a7ab" width="552" height="167"><a href="https://mrbreakfastsdelight.itch.io/mr-breakfasts-free-prompts">Mr. Breakfast's Free Prompts by Mr. Breakfast</a></iframe>
 
-#### 🛋️ Supports:
+### 🛋️ Supports:
 - Nintendo Switch
 - Xbox Series
 - PlayStation™ 5
@@ -36,4 +36,16 @@ Remix the source here, or download and support the pack on Itch.io
 - Generic game pad
 - Keyboard and mouse
 
-#### 🪛 How is the Source organized?
+### 🪛 How is the Source organized?
+The source was designed in [Inkscape](https://inkscape.org/), which is recommeneded to ensure the preservation of gradients. The assets are constructed with various locked gradients, making color edits easy. To remix the source or create your own buttons. Many of the bumpers were made with Inkscape's Corners live path effect.
+
+If you intend to submit a pull request, please organize your work under the correct layers, and make sure your paths are properly grouped and named.
+
+_Naming:_
+> `vender_title_tags`
+> 
+> Example: `xbox_y_color_dark`
+
+### 🎂 Who uses these?
+Want your project featured? Add a link here in the README
+
