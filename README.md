@@ -33,9 +33,7 @@
 
 Inspired by the look of [Kenny Art](https://kenney.nl/assets/input-prompts-pixel-16) and the freedom of [Xelu's](https://thoseawesomeguys.com/prompts/) free prompts.
 
-Remix the source here, or download and support the pack on Itch.io
-
-<iframe frameborder="0" src="https://itch.io/embed/2480900?bg_color=edd3da&amp;fg_color=dd2424&amp;link_color=f76600&amp;border_color=c1a7ab" width="552" height="167"><a href="https://mrbreakfastsdelight.itch.io/mr-breakfasts-free-prompts">Mr. Breakfast's Free Prompts by Mr. Breakfast</a></iframe>
+Remix the source here, or download and support the pack on [Itch.io](https://mrbreakfastsdelight.itch.io/mr-breakfasts-free-prompts")
 
 ### 🛋️ Supports:
 - Nintendo Switch
