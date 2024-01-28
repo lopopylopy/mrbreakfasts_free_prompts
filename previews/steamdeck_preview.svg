@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.87967464"
-     inkscape:cx="684.91232"
-     inkscape:cy="467.2182"
+     inkscape:zoom="0.31101195"
+     inkscape:cx="355.29181"
+     inkscape:cy="-16.076553"
      inkscape:window-width="1366"
      inkscape:window-height="699"
      inkscape:window-x="0"
@@ -1262,7 +1262,7 @@
        id="linearGradient114"
        x1="34.845757"
        y1="15.405022"
-       x2="87.275558"
+       x2="69.226273"
        y2="22.254534"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.2690393,0,0,1.2690393,-8.2966386,-9.8552044)" /><linearGradient
@@ -2346,7 +2346,7 @@
          id="tspan113"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.7445px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';fill:url(#linearGradient114);stroke-width:0.380759"
          x="14.774982"
-         y="18.300718">PlayStation 5</tspan></text><g
+         y="18.300718">Steam Deck</tspan></text><g
        id="g151"
        inkscape:label="switch"
        inkscape:groupmode="layer"

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="77.764931"
+   height="64.521706"
+   viewBox="0 0 20.575305 17.071368"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
+       id="linearGradient7"><stop
+         style="stop-color:#b8b8b8;stop-opacity:1;"
+         offset="0.16548869"
+         id="stop14" /><stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.16548869"
+         id="stop16" /><stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.2089889"
+         id="stop15" /><stop
+         style="stop-color:#e5e5e5;stop-opacity:1;"
+         offset="0.2089889"
+         id="stop7" /></linearGradient><linearGradient
+       xlink:href="#linearGradient7"
+       id="linearGradient187"
+       x1="584.50452"
+       y1="222.31374"
+       x2="584.50452"
+       y2="214.23055"
+       gradientUnits="userSpaceOnUse" /></defs><g
+     id="layer2"
+     transform="translate(-309.62476,4.3714211)"
+     style="display:inline"><g
+       id="g142"
+       style="display:inline;paint-order:fill markers stroke"
+       transform="matrix(1.1870466,0,0,1.1870466,-373.92168,-251.79212)"><path
+         id="rect142"
+         style="opacity:1;fill:url(#linearGradient187);stroke:#434a5f;stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
+         d="m 577.45388,214.23055 h 7.9422 v -5.29519 h 7.27352 v 12.26391 c 0,0.61741 -0.49705,1.11446 -1.11446,1.11446 h -14.10126 c -0.61741,0 -1.11446,-0.49705 -1.11446,-1.11446 v -5.85426 c 0,-0.61741 0.49705,-1.11446 1.11446,-1.11446 z" /><path
+         id="path142"
+         style="fill:#434a5f;stroke-width:1.43213;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
+         d="m 581.02982,216.49057 v 0.78094 h 1.91482 v -0.78094 h 1.54987 l 0.01,2.34282 h -3.47433 v 0.78094 l -2.70526,-1.56189 z" /></g></g></svg>
