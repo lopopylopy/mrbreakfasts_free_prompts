@@ -17,6 +17,11 @@
 
 <details>
   <summary><b>🍬 Previews</b></summary>
+   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/a57a9d58-6583-4ace-9e73-731d3ae5bfbf" alt="keyboard and mouse preview"/>
+   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/5deacd64-bfcf-4f73-a0d2-8da5f097e11f" alt="switch preview"/>
+
+
+
 
 </details>
 
