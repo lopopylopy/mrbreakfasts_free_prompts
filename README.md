@@ -24,8 +24,6 @@
    <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/66d03568-99e4-46e2-b8ff-862a4e6f2531" alt="ps5 preview"/>
    <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/39e38fa4-cd4d-4348-bec4-0348e14f44ea" alt="xbox preview"/>
    <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/f91021ab-a28d-4b2e-8e79-ea4af00604dd" alt="steam deck preview"/>
-   
-![steamdeck_preview]()
 
 </details>
 
