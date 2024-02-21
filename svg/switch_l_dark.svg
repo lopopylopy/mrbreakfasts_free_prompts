@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="47.999996"
+   height="38.000038"
+   viewBox="0 0 12.699999 10.054177"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
+       id="linearGradient2"><stop
+         style="stop-color:#8a90a8;stop-opacity:1"
+         offset="0.68779135"
+         id="stop39" /><stop
+         style="stop-color:#636883;stop-opacity:1;"
+         offset="0.68779135"
+         id="stop40" /></linearGradient><linearGradient
+       xlink:href="#linearGradient2"
+       id="linearGradient99"
+       gradientUnits="userSpaceOnUse"
+       x1="398.78177"
+       y1="117.41906"
+       x2="398.78177"
+       y2="119.43993" /></defs><g
+     id="g151"
+     style="display:inline"
+     transform="translate(-241.30002,-292.10003)"><g
+       id="g59"
+       transform="matrix(1,0,0,-1,86.76333,300.21321)"
+       style="display:inline"><path
+         id="path59"
+         style="fill:url(#linearGradient99);stroke:#434a5f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
+         d="m 394.57159,111.92579 h 5.04863 a 2.1615393,2.1615393 45 0 1 2.16154,2.16154 l 0,4.26798 a 2.3198052,2.3198052 135 0 1 -2.31981,2.31981 l -6.6335,0 a 2.3616182,2.3616182 45 0 1 -2.36162,-2.36162 v -2.28295 a 4.1047594,4.1047594 135 0 1 4.10476,-4.10476 z"
+         transform="matrix(1.0312685,0,0,-1.0312685,-247.62382,123.02309)" /><text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:center;letter-spacing:0.110906px;text-anchor:middle;fill:#434a5f;fill-opacity:1;stroke:none;stroke-width:0.670673;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         x="160.75262"
+         y="-1.9325091"
+         id="text59"
+         transform="scale(1,-1)"><tspan
+           id="tspan59"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';fill:#434a5f;fill-opacity:1;stroke:none;stroke-width:0.670673"
+           x="160.80807"
+           y="-1.9325091">L</tspan></text></g></g></svg>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="40.764973"
+   viewBox="0 0 25.4 10.785732"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
+       id="linearGradient7"><stop
+         style="stop-color:#b8b8b8;stop-opacity:1;"
+         offset="0.16548869"
+         id="stop14" /><stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.16548869"
+         id="stop16" /><stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.2089889"
+         id="stop15" /><stop
+         style="stop-color:#e5e5e5;stop-opacity:1;"
+         offset="0.2089889"
+         id="stop7" /></linearGradient><linearGradient
+       xlink:href="#linearGradient7"
+       id="linearGradient175"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1871923,0,0,1.1870466,-315.31179,-196.6207)"
+       x1="454.61255"
+       y1="238.41618"
+       x2="454.61255"
+       y2="230.33301" /></defs><g
+     id="layer2"
+     transform="translate(-203.20007,-88.899948)"
+     style="display:inline"><g
+       id="g175"
+       transform="translate(-12.699932,12.699954)"><path
+         id="path175"
+         style="display:inline;opacity:1;fill:url(#linearGradient175);stroke:#434a5f;stroke-width:1.19062;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
+         d="m 217.81838,76.795304 h 21.56323 c 0.73298,0 1.32308,0.590022 1.32308,1.322916 v 6.949268 c 0,0.732906 -0.5901,1.322928 -1.32308,1.322928 h -21.56323 c -0.73298,0 -1.32307,-0.590022 -1.32307,-1.322928 V 78.11822 c 0,-0.732894 0.59009,-1.322916 1.32307,-1.322916 z" /><text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.52002px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:center;letter-spacing:0.100131px;text-anchor:middle;display:inline;fill:#434a5f;fill-opacity:1;stroke-width:1.99061;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.98122, 1.99061;paint-order:fill markers stroke"
+         x="449.35489"
+         y="245.82587"
+         id="text175"
+         transform="matrix(1.1870466,0,0,1.1870466,-315.24649,-209.32071)"><tspan
+           id="tspan175"
+           style="font-size:4.52002px;text-align:start;text-anchor:start;fill:#434a5f;fill-opacity:1;stroke-width:1.99061;paint-order:fill markers stroke"
+           x="449.35489"
+           y="245.82587">SCROLL</tspan></text></g></g></svg>

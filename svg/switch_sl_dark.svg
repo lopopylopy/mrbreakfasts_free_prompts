@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="47.999996"
+   height="34.000053"
+   viewBox="0 0 12.699999 8.9958475"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
+       id="linearGradient2"><stop
+         style="stop-color:#8a90a8;stop-opacity:1"
+         offset="0.68779135"
+         id="stop39" /><stop
+         style="stop-color:#636883;stop-opacity:1;"
+         offset="0.68779135"
+         id="stop40" /></linearGradient><linearGradient
+       xlink:href="#linearGradient2"
+       id="linearGradient151"
+       gradientUnits="userSpaceOnUse"
+       x1="398.78177"
+       y1="117.41906"
+       x2="398.78177"
+       y2="119.43993" /></defs><g
+     id="g151"
+     style="display:inline"
+     transform="translate(-241.30002,-304.80003)"><g
+       id="g146"
+       transform="matrix(1,0,0,-1,86.76333,312.91321)"
+       style="display:inline"><path
+         id="path146"
+         style="fill:url(#linearGradient151);stroke:#434a5f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
+         d="m 393.08858,112.95203 h 6.07143 a 2.6217471,2.6217471 45 0 1 2.62175,2.62175 v 2.47959 a 2.6217471,2.6217471 135 0 1 -2.62175,2.62175 h -6.07143 a 2.6217471,2.6217471 45 0 1 -2.62175,-2.62175 v -2.47959 a 2.6217471,2.6217471 135 0 1 2.62175,-2.62175 z"
+         transform="matrix(1.0312685,0,0,-1.0312685,-247.62382,124.08142)" /><text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.69437px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:center;letter-spacing:0.0922384px;text-anchor:middle;fill:#434a5f;fill-opacity:1;stroke:none;stroke-width:0.557786;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         x="160.76308"
+         y="-2.4550252"
+         id="text146"
+         transform="scale(1,-1)"><tspan
+           id="tspan146"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.69437px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';fill:#434a5f;fill-opacity:1;stroke:none;stroke-width:0.557786"
+           x="160.80919"
+           y="-2.4550252">SL</tspan></text></g></g></svg>
