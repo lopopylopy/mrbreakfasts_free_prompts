@@ -29,8 +29,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1.2440478"
-     inkscape:cx="275.71288"
-     inkscape:cy="319.11957"
+     inkscape:cx="90.430609"
+     inkscape:cy="543.38748"
      inkscape:window-width="1366"
      inkscape:window-height="699"
      inkscape:window-x="0"
@@ -5592,7 +5592,10 @@
          id="layer15"
          inkscape:label="dpad_controller_dark"
          style="display:inline"
-         transform="translate(-3.5140816,-12.700162)"><g
+         transform="translate(-3.5140816,-12.700162)"
+         inkscape:export-filename="../../../../Downloads/layer15.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><g
            id="g775"
            transform="matrix(0.85,0,0,0.85,0.99575472,69.574609)"
            inkscape:label="dpad_dark"
