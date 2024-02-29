@@ -18,12 +18,12 @@
 <details>
   <summary><b>🍬 Previews</b></summary>
  
-   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/f147c07e-be75-40a1-95a3-7918637cb984" alt="generic preview"/>
-   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/a57a9d58-6583-4ace-9e73-731d3ae5bfbf" alt="keyboard and mouse preview"/>
-   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/5deacd64-bfcf-4f73-a0d2-8da5f097e11f" alt="switch preview"/>
-   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/66d03568-99e4-46e2-b8ff-862a4e6f2531" alt="ps5 preview"/>
-   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/39e38fa4-cd4d-4348-bec4-0348e14f44ea" alt="xbox preview"/>
-   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/f91021ab-a28d-4b2e-8e79-ea4af00604dd" alt="steam deck preview"/>
+   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/blob/main/previews/generic_preview.png" alt="generic preview"/>
+   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/blob/main/previews/keyboard_preview.png" alt="keyboard and mouse preview"/>
+   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/blob/main/previews/switch_preview.png" alt="switch preview"/>
+   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/blob/main/previews/ps5_preview.png" alt="ps5 preview"/>
+   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/blob/main/previews/xbox_preview.png" alt="xbox preview"/>
+   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/blob/main/previews/steamdeck_preview.png" alt="steam deck preview"/>
 
 </details>
 
