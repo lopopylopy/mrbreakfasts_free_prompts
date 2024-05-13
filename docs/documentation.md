@@ -4,7 +4,7 @@ Is there something about the icons you'd like to change? Details like color, fon
 I used Inkscape to make the icons, and I'll use to Inkscape to demonstrate. If you've used Inkscape before, hopefully these instructions are obvious.
 
 ## Changing the Color
-Are the colors in the icons are built with Inkscape's [gradient tool](https://inkscape-manuals.readthedocs.io/en/latest/creating-gradients.html). With the lock on, the changes to the gradients will be universally applied to ever icon that uses the gradient. This will allow for easy editing as there are only a few gradients.
+All the colors in the icons are built with Inkscape's [gradient tool](https://inkscape-manuals.readthedocs.io/en/latest/creating-gradients.html). With the lock on, the changes to the gradients will be universally applied to every icon that uses the gradient. This will allow for easy editing as there are only a few gradients.
 
 Here's a list of current gradients in use:
 
