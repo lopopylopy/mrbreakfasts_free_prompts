@@ -1,5 +1,5 @@
 # Theming
-Is there something about the icons you'd like to change? Details like color, font, drop shadow, and outline thickness are easy to change (although there are a few exceptions with the d-pad and mouse icons).
+Is there something about the icons you'd like to change? Details like color, font, drop shadow, and outline thickness are easy to change (although there are a few exceptions with the d-pad and mouse icons with their outline thickness).
 
 I used Inkscape to make the icons, and I'll use to Inkscape to demonstrate. If you've used Inkscape before, hopefully these instructions are obvious.
 
