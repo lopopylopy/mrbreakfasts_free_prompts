@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
- <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/482940cc-23d9-43cb-9af2-3958a89495d3" alt="pack preview" width="550"/>
+ <img src="previews/preview.png" alt="pack preview" width="550"/>
 </div>
 
 ---
@@ -18,12 +18,12 @@
 <details>
   <summary><b>🍬 Previews</b></summary>
  
-   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/blob/main/previews/generic_preview.png" alt="generic preview"/>
-   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/blob/main/previews/keyboard_preview.png" alt="keyboard and mouse preview"/>
-   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/blob/main/previews/switch_preview.png" alt="switch preview"/>
-   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/blob/main/previews/ps5_preview.png" alt="ps5 preview"/>
-   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/blob/main/previews/xbox_preview.png" alt="xbox preview"/>
-   <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/blob/main/previews/steamdeck_preview.png" alt="steam deck preview"/>
+   <img src="previews/generic_preview.png" alt="generic preview"/>
+   <img src="previews/keyboard_preview.png" alt="keyboard and mouse preview"/>
+   <img src="previews/switch_preview.png" alt="switch preview"/>
+   <img src="previews/ps5_preview.png" alt="ps5 preview"/>
+   <img src="previews/xbox_preview.png" alt="xbox preview"/>
+   <img src="previews/steamdeck_preview.png" alt="steam deck preview"/>
 
 </details>
 
