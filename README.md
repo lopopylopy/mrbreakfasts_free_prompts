@@ -58,7 +58,7 @@ Many of the triggers/bumpers were created using Inkscape's `Corner` live path ef
 
 If you intend to submit a pull request, please organize your work under the correct layers, and make sure your paths are properly grouped and named.
 
-Groups begin with the vender name `xbox`, then the name of the button `y`, and then whatever other attributes apply. `color` if it's a colored button, and `dark` or `light` depending on the sceme it follows:
+Groups begin with the vender name `xbox`, then the name of the button `y`, and then whatever other attributes apply. `color` if it's a colored button, and `dark` or `light` depending on the scheme it follows:
 
 > `vender_title_tags`
 > 
@@ -66,7 +66,7 @@ Groups begin with the vender name `xbox`, then the name of the button `y`, and t
 
 After you've made your changes, you'll need to update the corresponding files in `~/svg`, `~/png`, svg preview sources in `~/previews/src`, and the exported png previews in `~/previews`.
 
-Before your pull request, make sure to summarize your changes in `CHANGE_NOTES`
+Before you submit your pull request, make sure to summarize your changes in `CHANGE_NOTES` under the next Itch release.
 
 ### 🎂 Who uses these?
 So far no one! Want your project featured? Add a link here in the README
