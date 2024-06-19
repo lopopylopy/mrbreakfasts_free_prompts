@@ -56,6 +56,11 @@ Many of the triggers/bumpers were created using Inkscape's `Corner` live path ef
 
 ### ♻️ Contributing Guide
 
+You will need to install the following:
+
+1. [Inkscape](https://inkscape.org/) (version 1.3 or greater recommended)
+2. [Poppins font](https://fonts.google.com/specimen/Poppins)
+
 If you intend to submit a pull request, please organize your work under the correct layers, and make sure your paths are properly grouped and named.
 
 Groups begin with the vender name `xbox`, then the name of the button `y`, and then whatever other attributes apply. `color` if it's a colored button, and `dark` or `light` depending on the scheme it follows:
