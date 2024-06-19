@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/784055fc-b694-4fd0-9e62-13b9a87f5e32" alt="Mr. Breakfast's Free Prompts" width="500"/>  
+ <img src="meta/center_title.png" alt="Mr. Breakfast's Free Prompts" width="500"/>  
 </div>
 
 <p align="center">
@@ -41,25 +41,32 @@ Remix the source here, or download and support the pack on [Itch.io](https://mrb
 - Generic game pad
 - Keyboard and mouse
 
-### 🪛 How is the Source made?
-The source was designed in [Inkscape](https://inkscape.org/). The assets are created with fill gradients, strokes, and the Poppins font. The gradients are locked and shared between the assets, allowing for easy edits of the dark and light color schemes.
+### 🖌️ How is the Source made?
+The source was designed in [Inkscape](https://inkscape.org/). The assets are created with fill gradients, strokes, and the Poppins font. The gradients are locked and globally shared between assets, allowing for easy edits of the dark and light color schemes.
 
 Here's an example of a generic light button:
 
-![image](https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/a6291773-ea7f-44c5-a240-d83e01302fb7)
+![image](meta/button_example.png)
 
 And the gradients included so far:
 
-![image](https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/e9bc0817-5175-4af7-8f55-4192f381cbdc)
+![image](meta/gradient_names.png)
 
-Many of the triggers/bumpers were created using Inkscape's Corner live path effect. The keyboard keys have a separate gradient from the buttons for their light and dark schemes.
+Many of the triggers/bumpers were created using Inkscape's `Corner` live path effect. The keyboard keys have a separate gradient from the buttons for their light and dark schemes.
+
+### ♻️ Contributing Guide
 
 If you intend to submit a pull request, please organize your work under the correct layers, and make sure your paths are properly grouped and named.
 
-_Naming of Groups:_
+Groups begin with the vender name `xbox`, then the name of the button `y`, and then whatever other attributes apply. `color` if it's a colored button, and `dark` or `light` depending on the sceme it follows:
+
 > `vender_title_tags`
 > 
 > Example: `xbox_y_color_dark`
+
+After you've made your changes, you'll need to update the corresponding files in `~/svg`, `~/png`, svg preview sources in `~/previews/src`, and the exported png previews in `~/previews`.
+
+Before your pull request, make sure to summarize your changes in `CHANGE_NOTES`
 
 ### 🎂 Who uses these?
 So far no one! Want your project featured? Add a link here in the README
