@@ -69,6 +69,8 @@ Groups begin with the vender name `xbox`, then the name of the button `y`, and t
 
 After you've made your changes, you'll need to update the corresponding files in `~/svg`, `~/png`, svg preview sources in `~/previews/src`, and the exported png previews in `~/previews`.
 
+Before your pull request, make sure to summarize your changes in `CHANGE_NOTES`
+
 ### 🎂 Who uses these?
 So far no one! Want your project featured? Add a link here in the README
 
