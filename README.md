@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/784055fc-b694-4fd0-9e62-13b9a87f5e32" alt="Mr. Breakfast's Free Prompts" width="500"/>  
+ <img src="meta/center_title.png" alt="Mr. Breakfast's Free Prompts" width="500"/>  
 </div>
 
 <p align="center">
@@ -46,16 +46,13 @@ The source was designed in [Inkscape](https://inkscape.org/). The assets are cre
 
 Here's an example of a generic light button:
 
-![image](https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/a6291773-ea7f-44c5-a240-d83e01302fb7)
+![image](meta/button_example.png)
 
 And the gradients included so far:
 
-![image](https://github.com/lopopylopy/mrbreakfasts_free_prompts/assets/65320586/e9bc0817-5175-4af7-8f55-4192f381cbdc)
+![image](meta/gradient_names.png)
 
 Many of the triggers/bumpers were created using Inkscape's `Corner` live path effect. The keyboard keys have a separate gradient from the buttons for their light and dark schemes.
-
-
-
 
 ### ♻️ Contributing Guide
 
